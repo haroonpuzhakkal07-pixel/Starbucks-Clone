@@ -179,7 +179,7 @@ a{
 .image-section{
     width: 720px;
     height: 625px;
-    background-image: url("./images/made_delicious.webp"); 
+    background-image: url("images/made_delicious.webp"); 
     background-size: cover;
 }
 
@@ -228,7 +228,7 @@ a{
 .image-section-2{
     width: 720px;
     height: 420px;
-    background-image: url("./images/four_cup.jpg"); 
+    background-image: url("images/four_cup.jpg"); 
     background-size: cover; 
 }
 
