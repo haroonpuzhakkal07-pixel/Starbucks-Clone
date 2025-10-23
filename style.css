@@ -179,7 +179,7 @@ a{
 .image-section{
     width: 720px;
     height: 625px;
-    background-image: url("/images/made_delicious.webp"); 
+    background-image: url("./images/made_delicious.webp"); 
     background-size: cover;
 }
 
@@ -228,7 +228,7 @@ a{
 .image-section-2{
     width: 720px;
     height: 420px;
-    background-image: url("/images/four_cup.jpg"); 
+    background-image: url("./images/four_cup.jpg"); 
     background-size: cover; 
 }
 
@@ -273,7 +273,7 @@ a{
 .image-section-3{
     width: 720px;
     height: 420px;
-    background-image: url("/images/single_cup.webp"); 
+    background-image: url("./images/single_cup.webp"); 
     background-size: cover; 
 }
 
@@ -338,7 +338,7 @@ a{
 .image-section-4{
     width: 720px;
     height: 420px;
-    background-image: url("/images/three_cup.webp"); 
+    background-image: url("./images/three_cup.webp"); 
     background-size: cover; 
 }
 
@@ -394,7 +394,7 @@ a{
 .image-section-5{
     width: 720px;
     height: 625px;
-    background-image: url("/images/coffee_bean.jpg"); 
+    background-image: url("./images/coffee_bean.jpg"); 
     background-size: cover;
 }
 
